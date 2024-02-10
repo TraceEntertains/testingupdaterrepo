@@ -1,0 +1,38 @@
+ACT v1: (hash 7d44590a0d94d7423a8c9fe980ccf1d6a2765d4410055c0d4e88e77217e5d07c) (tid: 0004013000003802)
+nimbus 1.0.0
+nimbus 1.0.1
+nimbus 1.0.2
+nimbus 1.1.0
+nimbus 1.5.0
+
+FRD v1: (hash bdee61b48a16e0314b8763e89de33d6ada3240bd34145b908bdc73188b861e52) (tid: 0004013000003202)
+nimbus 1.0.0
+nimbus 1.0.1
+nimbus 1.0.2
+nimbus 1.1.0
+nimbus 1.5.0
+
+SSL v1: (hash 8b51ecf8e5db50d3407292109c6d9847a7a270fb31924d8dc54c2bd0b67a796e) (tid: 0004013000002F02)
+nimbus 1.0.1
+nimbus 1.0.2
+nimbus 1.1.0
+nimbus 1.5.0
+
+Miiverse v1: (hash f804757ef5ad734d57b05c465f5aa1c1db3a18b89815cc4d68e98eb74165fee5):
+not bundled with nimbus
+
+Miiverse v2: (hash 1a6a425daec48d0bc6d5bc2e2f3ddef0308b36daa839b0b4939fd97b4cfd4ae5):
+nimbus 1.0.2
+nimbus 1.1.0
+nimbus 1.5.0
+
+Miiverse Certificate v1: (hash: 7f7c1969006be2acd48236a173546f75ae89adc84bd1430667ac3f142dbc7042)
+not bundled with nimbus
+
+Miiverse Certificate v2: (hash: 11e086341bb8bf7d0a3519253b6c232a55744b8391dc188c2e4a4bbf7b2e3f49)
+nimbus 1.0.2
+nimbus 1.1.0
+nimbus 1.5.0
+
+HTTPC Patch v4 & Miiverse v3 and ACT/FRD v2
+nimbus 2.0.0?
